@@ -5,6 +5,8 @@
         background-color: green;
         color: black;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
         box-sizing: border-box;
     }
     #b {
@@ -14,6 +16,8 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-bottom: none;
         position: relative;
     }
     #count {
@@ -22,6 +26,8 @@
         background-color: rgb(19, 179, 19);
         color: black;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
         box-sizing: border-box;
     }
     #d {
@@ -30,6 +36,8 @@
         background-color: rgb(24, 197, 24);
         color: black;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
         box-sizing: border-box;
     }
     #e {
@@ -39,6 +47,8 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-left: none;
         float: left;
     }
     #f {
@@ -48,6 +58,8 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-left: none;
         float: left;
     }
     #g {
@@ -57,6 +69,9 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-top: none;
+        border-left: none;
         float: left;
     }
     #h {
@@ -66,6 +81,9 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-top: none;
+        border-left: none;
         float: left;
     }
     #i {
@@ -75,6 +93,8 @@
         color: black;
         text-align: center;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-top: none;
         clear: both;
     }
 }
@@ -86,6 +106,8 @@
         background-color: rgb(4, 0, 54);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
         box-sizing: border-box;
     }
     #b {
@@ -95,6 +117,8 @@
         color: white;
         float: left;
         box-sizing: border-box;
+        border: solid black 1px;
+        border-bottom: none;
         text-align: center;
     }
     #count {
@@ -105,6 +129,9 @@
         /* text-align: center; */
         text-justify: auto;
         float: left;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         text-align: center;
     }
@@ -114,6 +141,9 @@
         background-color: rgb(13, 1, 143);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         float: left;
     }
@@ -123,6 +153,9 @@
         background-color: rgb(16, 1, 179);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         float: left;
     }
@@ -132,6 +165,9 @@
         background-color: rgb(38, 23, 204);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         float: left;
     }
@@ -141,6 +177,9 @@
         background-color: rgb(49, 31, 252);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         float: left;
     }
@@ -150,6 +189,9 @@
         background-color: rgb(0, 102, 255);
         color: white;
         text-align: center;
+        border: solid black 1px;
+        border-bottom: none;
+        border-left: none;
         box-sizing: border-box;
         float: left;
     }
